@@ -1,8 +1,6 @@
 .navbar{
     background-color: lightgray;
 }
-
-
 .showcase{
     background: linear-gradient(to right, rgba(86, 156, 235, 0.5), rgba(4, 4, 31, 0.5)), url(/assets/port-landingpage.jpg);
     background-position: center;
