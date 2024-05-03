@@ -16,3 +16,15 @@
     top: 30.5%;
     left: 29.5%;
 }
+
+.showcase-3{
+    background-color: rgb(229, 243, 241);
+}
+
+.skill{
+    border: 2px solid transparent;
+    border-radius: 50%;
+    height: 158px;
+    padding-top: 60px;
+
+}
